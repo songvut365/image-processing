@@ -32,3 +32,11 @@
   - Prepare features for main image and tile image
   - Image Clustering and Matching using KNN with KDTree Algorithm
   - Create Image Mosaic 
+### Activity #9 - Image Segmentation (K-Mean Clustering)
+  - Prepare HoG feature
+  - Image Segmentation Using K-Mean clustering (FG, BG)
+  - ROI - Region of Interest Drawing Region Block
+### Activity #10 - Transfer Learning CNN
+  - Load Base Model and Add New Layers
+  - Model Traning and Validation
+  - Model Testing and Performance Visualize
