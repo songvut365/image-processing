@@ -37,7 +37,7 @@
 
 - Data Preparation
 - Create model (AutoEncoder) KerasRegressor
-- Hyperparameter Tuning 
+- Hyperparameter Tuning
 
 ### Activity #7 - Image Geometric Transform
 
@@ -48,8 +48,7 @@
 
 - Prepare features for main image and tile image
 - Image Clustering and Matching using KNN with KDTree Algorithm
-
-- Create Image Mosaic 
+- Create Image Mosaic
 
 ### Activity #9 - Image Segmentation (K-Mean Clustering)
 
