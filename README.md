@@ -62,9 +62,18 @@
 - Model Traning and Validation
 - Model Testing and Performance Visualize
 
+### Activity #11 - Artificial Image using GAN
+
+- Prepare Image Data (Real, Fake)
+- Prepare Discriminator, Generator Model
+- GAN Model Training and Prediction
+
 ## Assignment
+
+U-Net vs GAN which model is better to colorization [read more](https://medium.com/@62015048/unet-และ-gan-โมเดลไหนจะระบายสีได้ดีกว่ากัน-63b406ec493b)
 
 ### Reference
 
 - [Colorizing Manga Faces with U-Net architectures](https://www.kaggle.com/code/aurbcd/colorizing-manga-faces-with-u-net-architectures/)
 - [Anime Face Colorization GAN](https://www.kaggle.com/code/rahuldshetty/anime-face-colorization-gan/)
+- [Anime Faces](https://www.kaggle.com/datasets/soumikrakshit/anime-faces)
